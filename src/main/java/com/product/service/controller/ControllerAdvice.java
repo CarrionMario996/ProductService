@@ -4,7 +4,9 @@ import com.product.service.exception.RequestException;
 import com.product.service.model.dto.ErrorDto;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
 
+@RestControllerAdvice
 public class ControllerAdvice{
 
     @ExceptionHandler(value= RequestException.class)
