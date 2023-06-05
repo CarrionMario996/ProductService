@@ -36,4 +36,3 @@ Para ejecutar los servicios seguir los siguientes pasos:
   
    6.2.2 En caso ocupar postman ingresar token en authorization y el tipo de token es Bearer Token
 
-Comparto link de colleccion de postman: 
