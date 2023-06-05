@@ -27,9 +27,13 @@ Para ejecutar los servicios seguir los siguientes pasos:
 5. Hacer login para obtener token localhost:9091/api/v1.0.0/auth/login
 
 6. Servicios desarrollados
+  
   6.1 localhost:9090/api/v1.0.0/product/all
-    6.1.1 En caso ocupar postman ingresar token en authorization y el tipo de token es Bearer Token
+  
+   6.1.1 En caso ocupar postman ingresar token en authorization y el tipo de token es Bearer Token
+  
   6.2 localhost:9090/api/v1.0.0/product/{id}
-    6.2.2 En caso ocupar postman ingresar token en authorization y el tipo de token es Bearer Token
+  
+   6.2.2 En caso ocupar postman ingresar token en authorization y el tipo de token es Bearer Token
 
 Comparto link de colleccion de postman: 
